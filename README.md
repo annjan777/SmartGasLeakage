@@ -34,5 +34,5 @@ This project demonstrates a real-time monitoring system that reads data from an 
 This project is backed by a research paper titled "[A Case Study on the Marketing Implications of using Smart Gas Leakage Detectors in Industrial Facilities](https://www.scopus.com/record/display.uri?eid=2-s2.0-85191876480&origin=resultslist&sort=plf-f&src=s&sid=dcc807bcdd774c8a0bf5f3a807c021ce&sot=b&sdt=b&s=AUTH%28Annjan%29&sl=12&sessionSearchId=dcc807bcdd774c8a0bf5f3a807c021ce&relpos=0)," presented at the 3rd International Conference on Innovative Mechanisms for Industry Applications (ICIMIA 2023).
 
 ##Lisence
-[MIT LISENCE]
+[MIT LISENCE](MIT LISENCE)
 
